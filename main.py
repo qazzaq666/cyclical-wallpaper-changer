@@ -3,7 +3,7 @@ from pathlib import Path
 import keyboard
 
 print('\n'*100)
-name_of_picture_folder = "Images1"
+name_of_picture_folder = "Images"
 t1=1
 
 
