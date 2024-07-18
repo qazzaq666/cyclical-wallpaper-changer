@@ -1,7 +1,7 @@
 # cyclical-wallpaper-changer
 cyclical wallpaper changer by shortcut
 
-works on windows
+works only on windows! 
 
 ## installing
 `pip install keyboard`
